@@ -1,0 +1,7 @@
+Roadmap:
+1. Join domain
+2. prepare VCDB
+3. Install sso
+4. Install Inventory
+5. Install vSphere web
+6. Install vCenter
